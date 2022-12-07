@@ -1,6 +1,19 @@
-*{
-    margin: 0;
-    padding: 0%;
-    
-    background: #0F121B;
+* {
+  margin: 0;
+  padding: 0%;
+
+  background: #0f121b;
+}
+
+.ul-menu {
+  color: #fff;
+  display: flex;
+  gap: 10%;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
 }
